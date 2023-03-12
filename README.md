@@ -7,6 +7,5 @@
 # Most of my repos are private, ask about them!
 
 ### Contact Me
-- [Discord](https://discord.gg/AwtUBZVvEt)
 
 
