@@ -1,9 +1,12 @@
 # Howdy!
 ## Im Snowyy
 - Proficient in Java
-- Working on multiple certificates (Cisco CCNA, CompTIA A+, Java SE 8)
+- Achieved CompTIA A+ (June 22, 2023)
+- Working on multiple certificates (Cisco CCNA, Java SE 8)
 - Junior 3D artist
 - Basic Unity Developer
+- SkillsUSA Idaho Gold Medalist (Information Technology Services)
+- Competed in SkillsUSA NLSC 2023 in Atlanta, Georgia
 # Most of my repos are private, ask about them!
 
 ### Contact Me
