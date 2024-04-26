@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://snowyy.dev/gato.jpeg"  />
+  <img height="150" src="https://cdn.snowyy.dev/gato.jpeg"  />
 </div>
 
 ###
