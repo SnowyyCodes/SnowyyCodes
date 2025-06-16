@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Snowyy from Idaho<br><br>- 🔭 I’m working as an IT Technician, and a Developer for voidware.solutions<br>- 📚 I'm currently learning Cisco Networking<br>- ⚡ In my free time I like making niche projects that serve one use.<br>- ❓ Most of my projects are privated, ask about them!</p>
+<p align="left">I'm Snowyy from Idaho<br><br>- 🔭 I’m working as a Customer Service agent, a NOC Operator, and a Developer for voidware.solutions<br>- 📚 I'm currently learning Cisco Networking<br>- ⚡ In my free time I like making niche projects that serve one use.<br>- ❓ Most of my projects are privated, ask about them!</p>
 
 ###
 
